@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "github.com/xueyuanjun/chitchat/routes"
+	"github.com/xueyuanjun/chitchat/routes"
 	"log"
 	"net/http"
 )
